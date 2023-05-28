@@ -7,6 +7,12 @@ the vast world of data analytics. Let's embark on an exciting
 data-driven journey together 📊🔍
 
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="GIF image">
+🔭 I’m currently working on Data Science Projects
+🌱 I’m currently learning SQL
+👯 I’m looking to collaborate on Machine Learning
+💬 Ask me about Data Analytics and data science
+📫 How to reach me: maryamsikander66@gmail.com
+😄 Happy Learning
 
 # 🌎 Connect:
 <a href="https://www.linkedin.com/in/maryam-sikander/"><img src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+service+social+web+website+icon-1320192780023588708.png" alt="LinkedIn" width="40"></a>

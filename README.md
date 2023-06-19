@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&size=24&duration=4000&pause=1000&color=6AFF95&width=435&lines=Greetings%2C+fellow+data+enthusiast!+)](https://git.io/typing-svg)
 
-As a data scientist,I love diving into complex datasets,
+I love diving into complex datasets,
 unraveling insights, and visualizing data stories. From SQL
 queries to data visualization techniques, I enjoy exploring
 the vast world of data analytics. Let's embark on an exciting

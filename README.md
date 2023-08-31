@@ -14,7 +14,7 @@ data-driven journey together 📊🔍
 
 👯 I’m looking to collaborate on Machine Learning
 
-💬 Ask me about Data Analytics and data science
+💬 Ask me about Data Analytics and Data Science
 
 📫 How to reach me: maryamsikander66@gmail.com
 

@@ -3,7 +3,7 @@
 My name is Maryam. Passionate data science and AI enthusiast, I love diving into complex datasets,
 unraveling insights, and visualizing data stories. From SQL
 queries to data visualization techniques, I enjoy exploring
-the vast world of data analytics. Let's embark on an exciting
+the vast world of data science. Let's embark on an exciting
 data-driven journey together 📊🔍
 
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="GIF image">

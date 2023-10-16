@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&size=24&duration=4000&pause=1000&color=0e3d19&width=435&lines=Greetings%2C+fellow+tech+enthusiasts!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&size=24&duration=4000&pause=1000&color=2f1240&width=435&lines=Greetings%2C+fellow+tech+enthusiasts!+)](https://git.io/typing-svg)
 
-My name is Maryam. Passionate data science and AI enthusiast, I love diving into complex datasets,
-unraveling insights, and visualizing data stories. From SQL
-queries to data visualization techniques, I enjoy exploring
+My name is Maryam, Passionate data science and AI enthusiast. I love diving into complex datasets,
+unraveling insights, and visualizing data stories. From data 
+analysis to data training techniques, I enjoy exploring
 the vast world of data science. Let's embark on an exciting
 data-driven journey together 📊🔍
 
@@ -10,7 +10,7 @@ data-driven journey together 📊🔍
 
 🔭 I’m currently working on Data Science Projects
 
-🌱 I’m currently learning SQL
+🌱 I’m currently learning Artificial Intelligence
 
 👯 I’m looking to collaborate on Machine Learning
 

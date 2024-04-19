@@ -20,7 +20,7 @@ data-driven journey together 📊🔍
 
 😄 Happy Learning
 # 🌎 Connect:
-<a href="https://www.linkedin.com/in/maryam-sikander/"><img src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+service+social+web+website+icon-1320192780023588708.png" alt="LinkedIn" width="40"></a>
+<a href="https://www.linkedin.com/in/maryamsikander/"><img src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+service+social+web+website+icon-1320192780023588708.png" alt="LinkedIn" width="40"></a>
 <a href="https://www.kaggle.com/maryamsikander"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="40"></a>
 
 <div style="display: flex; gap: 0;">

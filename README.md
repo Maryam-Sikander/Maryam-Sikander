@@ -8,7 +8,7 @@ data-driven journey together 📊🔍
 
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="GIF image">
 
-🔭 I’m currently working on Data Science Projects
+🔭 I’m currently working as an Open-Source Contributor at Girl Script Summer of Code
 
 🌱 I’m currently learning Artificial Intelligence
 
@@ -18,7 +18,6 @@ data-driven journey together 📊🔍
 
 📫 How to reach me: maryamsikander66@gmail.com
 
-😄 Happy Learning
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/maryamsikander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamsikander" height="30" width="40" /></a>

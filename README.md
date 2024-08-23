@@ -9,9 +9,7 @@
 <br><br>
 
 #### <span style="color:blue; font-family: 'Roboto', sans-serif;">I'm an aspiring Data Scientist and Machine Learning Engineer. I’m fascinated by using AI to tackle real-world challenges and drive meaningful solutions through code and creativity.</span>
-
----
-
+<br><br>
 
 🔭 I’m currently working as an Open-Source Contributor at Girl Script Summer of Code
 

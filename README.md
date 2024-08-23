@@ -4,8 +4,9 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9f75ba&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=432159&font=Exo+2&size=30&center=true&vCenter=true&width=1000&lines=Greetings%2C+fellow+tech+enthusiasts!++;I+am+Maryam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=432159&size=35&center=true&vCenter=true&width=1000&lines=Greetings%2C+fellow+tech+enthusiasts!++;I+am+Maryam)](https://git.io/typing-svg)
 
+<br><br>
 
 #### <span style="color:blue; font-family: 'Roboto', sans-serif;">I'm an aspiring Data Scientist and Machine Learning Engineer. I’m fascinated by using AI to tackle real-world challenges and drive meaningful solutions through code and creativity.</span>
 

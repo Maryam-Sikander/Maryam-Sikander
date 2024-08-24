@@ -8,18 +8,19 @@
 
 <br><br>
 
-#### <span style="color:blue; font-family: 'Roboto', sans-serif;">I'm an aspiring Data Scientist and Machine Learning Engineer. I’m fascinated by using AI to tackle real-world challenges and drive meaningful solutions through code and creativity.</span>
-<br><br>
+#### <span style="color:blue; font-family: 'Roboto', sans-serif; display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"> I'm an aspiring Data Scientist and Machine Learning Engineer. I’m fascinated by using AI to tackle real-world challenges and drive meaningful solutions through code and creativity.</span>
+<br><be>
 
-🔭 I’m currently working as an Open-Source Contributor at Girl Script Summer of Code
-
-🌱 I’m currently learning Artificial Intelligence
-
-👯 I’m looking to collaborate on Machine Learning
-
-💬 Ask me about Data Analytics and Data Science
-
-📫 How to reach me: maryamsikander66@gmail.com
+<img align="right" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+<br/>
+<ul>
+  <li> 🔭 I’m currently working as an Open-Source Contributor at Girl Script Summer of Code</a> </li>
+  <li> 🌱 I’m currently learning Artificial Intelligence</a> </li>
+  <li> 👯 I’m looking to collaborate on Machine Learning</a> </li>
+  <li> 💬 Ask me about Data Analytics and Data Science</li>
+  <li> 📫 How to reach me: <a href="mailto: maryamsikander66@gmail.com">maryamsikander66@gmail.com</a> </li>
+</li>
+</ul>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
